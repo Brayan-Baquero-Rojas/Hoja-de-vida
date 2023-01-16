@@ -1,13 +1,225 @@
-h1{
-    color: brown;
+body{
+    font-family:'Courier New', Courier, monospace;
+    margin: 0%;
 }
 
-#Cargo2{
+.lateralIzq{
+    float: left;
+    width: 27%;
+    height: 160vh;
+    background: rgb(2, 57, 102);
 
-    color: aqua;
 }
 
-.Tex_claro{
-
-    color: coral;
+.fotoBrayan{
+    margin-top: 30px;
+    margin-left: 19%;
+    margin-bottom: 3%;
+    width: 60%;
+    height: 30vh;
 }
+
+.contacto{
+    margin-top: 0.5px;
+    text-align: center;
+    color: beige;
+
+}
+
+.recuadroContacto{
+    border-top-right-radius: 20%;
+    border-end-end-radius: 20%;
+    float: left;
+    width: 19%;
+    height: 4.5vh;
+    background:white;
+}
+
+.cuadroTextoContacto{
+    border-top-right-radius: 20%;
+    border-end-end-radius: 20%;
+    float: left;
+    width: 22%;
+    height: 4.5vh;
+    
+}
+
+.textoContacto{
+    color: beige;
+    font-size: 90%;
+    margin-left: 35%;
+
+}
+
+.textoRedes{
+    color: beige;
+    font-size: 70%;
+    margin-left: 35%;
+
+}
+
+.textoRedes1{
+    color: beige;
+    font-size: 70%;
+    margin-left: 27%;
+
+}
+
+.iconosEmail{
+    margin-top: 1%;
+    margin-right: 4%;
+    margin-bottom: 90%;
+    float: right;
+    width: 50%;
+    height: 4.3vh;
+}
+
+.iconosContacto{
+    margin-top: -1.5%;
+    margin-right: 2%;
+    margin-bottom: 90%;
+    float: right;
+    width: 60%;
+    height: 5vh;
+}
+
+.iconosLocation{
+    margin-top: 6%;
+    margin-right: 2%;
+    margin-bottom: 90%;
+    float: right;
+    width: 50%;
+    height: 3.5vh;
+}
+
+.iconosGlobal{
+
+    margin-top: 5%;
+    margin-right: 10%;   
+    margin-bottom: 90%;
+    float: right;
+    width: 40%;
+    height: 3.5vh;
+
+}
+
+
+.derecho{
+    margin-right: 0%;
+    float: left;
+    width: 73%;
+    height:160vh;
+    background: rgba(240, 243, 233, 0.9);
+
+}
+
+.informacionHoja{
+    margin-left: 4%;
+    margin-right: 15%;
+
+}
+
+.descripionPersonal{
+    margin-left: 10%;
+    text-align: justify;
+}
+
+
+
+.nombre{
+    margin: 0%;
+    margin-left: 13%;
+    text-align: center;
+    color: rgb(2, 86, 155);
+    font-size: 45px;
+}
+
+.apellido{
+    margin: -1%;
+    margin-left: 13%;
+    text-align: center;
+    color: rgb(2, 86, 155);
+    font-size: 57px;
+}
+
+.profesion{
+    margin-top: 50px;
+    margin-left: 10%; 
+    color: rgb(2, 86, 155);
+    font-size: 20px;
+}
+
+.recuadrosTitulosHoja{
+    margin-left: 10%;
+    border-radius: 40px;
+    float: left;
+    width: 27%;
+    height: 5vh;
+    background:rgb(2, 57, 102);
+    
+}
+
+.informacionPersonal{
+    margin-top: 4.5%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-right: 8%;
+    font-size: 100%;
+    color: white;
+}
+
+.recuadrosEducación{
+    margin-left: 10%;
+    border-radius: 40px;
+    float: left;
+    width: 15%;
+    height: 5vh;
+    background:rgb(2, 57, 102);
+}
+
+.informacionEducacion{
+    margin-top: 8%;
+    margin-left: 14%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    font-size: 110%;
+    color: white;
+}
+
+.textoEducacion{
+
+    margin-top: 3.5%;
+    margin-left: 15%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    font-size: 110%;
+    color: white;
+}
+
+.cuadroTextoContacto1{
+        border-top-right-radius: 20%;
+        border-end-end-radius: 20%;
+        width: 22%;
+        height: 4.5vh;
+        
+}
+
+.informacionExperiencia{
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    font-size: 110%;
+    color: white;
+}
+
+.recuadrosExperiencia{
+    margin-left: 10%;
+    border-radius: 40px;
+    float: left;
+    width: 16%;
+    height: 5vh;
+        background:rgb(2, 57, 102);
+
+}
+    
